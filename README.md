@@ -2,9 +2,10 @@
 
 ## To make a new one :
 
+* make sure you have a jetty dist somewhere
 * git clone git@github.com:hedefalk/jetty_template.git myapp
 * cd myapp
-* Change bin/setupenv.sh
+* Change bin/setupenv.sh (ports, loc of jetty-dist and app)
 * Typically do "sudo chown jenkins -R *" if it's gonna be run from jenkins build
 
 
