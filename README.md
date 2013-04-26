@@ -5,3 +5,4 @@
 Copy entire directory in home and change 
 
 * setupenv.sh
+* Typically do "sudo chown jenkins -R *" if it's gonna be run from jenkins build
