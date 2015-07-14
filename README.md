@@ -2,7 +2,7 @@
 
 ## To make a new one :
 
-* make sure you have a jetty dist somewhere
+* make sure you have a jetty dist somewhere and remove start.ini
 * git clone git@github.com:hedefalk/jetty_template.git myapp
 * cd myapp
 * Change bin/setupenv.sh (ports, loc of jetty-dist and app)
